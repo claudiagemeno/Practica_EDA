@@ -1,0 +1,7 @@
+pandas
+category_encoders
+scikit-learn
+scipy
+seaborn
+matplotlib
+plotly
