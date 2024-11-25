@@ -1,7 +1,9 @@
 pandas
+numpy
 category_encoders
 scikit-learn
 scipy
 seaborn
 matplotlib
 plotly
+
