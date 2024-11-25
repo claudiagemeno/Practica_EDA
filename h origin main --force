@@ -1,0 +1,59 @@
+[33mcommit bb0595b5935c1fb46c2ef020cd38b21796aa5bfb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Mon Nov 25 14:04:48 2024 +0100
+
+    Actualización
+
+ data/data_test.csv   | 49711 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ env/requirements.txt |     2 [32m+[m
+ 2 files changed, 49713 insertions(+)
+
+[33mcommit 9d10dffdcbc13e2acd84a2646e2830d124a4ea0a[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Fri Nov 22 02:29:01 2024 +0100
+
+    Subida datos pequeños
+
+[33mcommit e67eae2c85e1708f3517143375ca9553043a9a28[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Fri Nov 22 02:28:08 2024 +0100
+
+    Subida datos pequeños
+
+[33mcommit 0216c075809900cba81ba264a8db007c589d47bd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Fri Nov 22 02:23:46 2024 +0100
+
+    Subida cambios
+
+ notebook/.ipynb_checkpoints/01_Introduccion_EDA-checkpoint.ipynb | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
+
+[33mcommit 451158f5e24ca6cd5da2ebbdf4415269ce94404d[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Fri Nov 22 02:21:00 2024 +0100
+
+    Primer commit, subiendo todos los archivos
+
+ notebook/.ipynb_checkpoints/01_Introduccion_EDA-checkpoint.ipynb | 6 [31m------[m
+ 1 file changed, 6 deletions(-)
+
+[33mcommit 3af19665180d5d2cf805b8542f402aff6e12de63[m
+Author: Claudia Gemeno <claudia.gemeno@cunef.edu>
+Date:   Fri Nov 22 02:07:04 2024 +0100
+
+    Practica_EDA
+
+ README.md                                          |    21 [32m+[m
+ env/requirements.txt                               |     7 [32m+[m
+ html/01_Exploracion_general.html                   | 11212 [32m+++++++++++++[m
+ ..._Tratamiento_correlaciones_missing_outlier.html | 15992 [32m+++++++++++++++++++[m
+ html/03_encoding_categorical_scaled_vars.html      | 13290 [32m+++++++++++++++[m
+ .../01_Introduccion_EDA-checkpoint.ipynb           |     6 [32m+[m
+ notebook/01_Exploracion_general.ipynb              |  4495 [32m++++++[m
+ ...Tratamiento_correlaciones_missing_outlier.ipynb | 10176 [32m++++++++++++[m
+ notebook/03_encoding_categorical_scaled_vars.ipynb |  7616 [32m+++++++++[m
+ src/01_exploracion_general.py                      |   266 [32m+[m
+ ...02_tratamiento_correlaciones_missing_outlier.py |   665 [32m+[m
+ src/03_encoding_categorical_scaled_vars.py         |    98 [32m+[m
+ 12 files changed, 63844 insertions(+)
